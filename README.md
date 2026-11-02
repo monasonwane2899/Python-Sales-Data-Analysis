@@ -82,9 +82,9 @@ Exported the cleaned dataset into a CSV file named `sales_data_cleaned.csv`.
 
 ## Project Files
 
-* Dataset: Original and cleaned sales data.
-* Python_Code: Python source code.
-* Visualizations: Generated charts.
+* Dataset: (sales_data.csv, sales_data_cleaned.csv)
+* Python_Code: (SalesDataAnalysis.ipynb)
+* Visualizations: (category_wise_revenue.png, mall_wise_revenue.png, monthly_revenue_trend.png, category_revenue_share.png, revenue_distribution.png)
 
 
 ## Conclusion
